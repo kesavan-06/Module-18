@@ -23,8 +23,8 @@ To write a Python program for **Prim's Minimum Spanning Tree (MST)** algorithm.
 ## PYTHON PROGRAM
 
 ```
-name: kristipati shivani
-reg.no:212222060126
+name: kesavan.S
+reg.no:212223060125
 
 import sys # Library for INT_MAX
 
